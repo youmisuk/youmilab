@@ -1,11 +1,11 @@
 ---
-title: Contact
+title: Join us
 date: 2022-10-24
 
 type: landing
 
 sections:
-  - block: contact
+  - block: Join us
     content:
       title: Contact
       text: |-
