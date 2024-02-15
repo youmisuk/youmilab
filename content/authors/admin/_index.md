@@ -68,7 +68,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
+  - Professor
 ---
 
 Youmi Suk is an Assistant Professor in the Measurement, Evaluation, and Statistics program in the Department of Human Development at Teachers College, Columbia University. She is also a member of the Data Science Institute (DSI) at Columbia University. Prior to joining Teachers College, she was an Assistant Professor in the School of Data Science at the University of Virginia. Dr. Suk’s research areas include causal machine learning, multilevel modeling, optimal treatment regimes, algorithmic fairness, and analysis of process data. Her current research projects fall into four categories: (i) robust machine learning for causal inference in multilevel observational studies, (ii) optimal treatment regimes in education for data-driven, personalized learning, (iii) evaluating testing accommodations with quasi-experimental devices and process data, and (iv) evaluating algorithmic fairness in educational settings. Dr. Suk has received awards and grants for her work, including the National Science Foundation (NSF) and American Educational Research Association (AERA). Also, she has taught courses on linear regression, data visualization, and programming for data science.
