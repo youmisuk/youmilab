@@ -17,11 +17,11 @@ main:
     url: Research
     weight: 40
   - name: Publications
-    url: Publications
+    url: publications
     weight: 50
   - name: Teaching
     url: Teaching
     weight: 60
   - name: Join Us
-    url: Contact
+    url: contact
     weight: 70
