@@ -13,15 +13,9 @@ main:
   - name: People
     url: people
     weight: 30
-  - name: Research
-    url: Research
-    weight: 40
   - name: Publications
     url: publications
-    weight: 50
-  - name: Teaching
-    url: Teaching
-    weight: 60
+    weight: 40
   - name: Join Us
     url: contact
-    weight: 70
+    weight: 50
