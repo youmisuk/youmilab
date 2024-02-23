@@ -45,12 +45,13 @@ featured: true
 
 url_pdf: 'https://link.springer.com/article/10.1007/s11336-023-09937-2'
 url_code: 'https://github.com/youmisuk/multisiteOTR'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_source: ''
+url_video: ''
+url_preprint: 'https://osf.io/preprints/psyarxiv/me5gb'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
