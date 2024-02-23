@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Guoliang Xu 许国梁
+title: Guoliang Xu
 
 # Full name (for SEO)
 first_name: Guoliang 
@@ -14,7 +14,7 @@ authors:
 superuser: TRUE
 
 # Role/position
-role: Ph.D. Candidate in Measurement and Evaluation
+role: Ph.D. Candidate in Measurement and Evaluation 
 
 # Organizations/Affiliations
 organizations:
