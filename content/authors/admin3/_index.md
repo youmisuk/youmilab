@@ -25,7 +25,7 @@ organizations:
 bio: My research interests include ....
 
 interests:
-  - Causal Inference
+  - 
   - 
 
 
