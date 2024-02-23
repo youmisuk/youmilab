@@ -13,7 +13,7 @@ sections:
              May the road rise up to meet you, may the wind be ever at your back. May the sun shine warm upon your face and the rain fall softly on your fields.
 
 
-      email: youmilab@tc.columbia.edu
+      email: ysuk@tc.columbia.edu
       phone: 888 888 88 88
       address:
         street: 525west 120st

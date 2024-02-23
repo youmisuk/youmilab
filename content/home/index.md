@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: AI1.jpg
             filters:
               brightness: 0.7
           position: right
@@ -28,7 +28,7 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
+      - title: World-Class Lab
         content: 'Just opened last month!'
         align: right
         background:
@@ -44,6 +44,8 @@ sections:
           text: Join Us
           url: ../contact/
     design:
+      # <a href="https://www.freepik.com/free-ai-image/glowing-blue-wave-pattern-ignites-futuristic-technology-generated-by-ai_41327962.htm#fromView=search&page=1&position=50&uuid=8359d31e-6bdd-4d74-8266-7c363ea63294">Image by vecstock on Freepik</a>  #for image AI1, power by author
+
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
       is_fullscreen: true
