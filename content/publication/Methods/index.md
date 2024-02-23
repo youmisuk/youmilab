@@ -6,18 +6,18 @@ title: 'Designing optimal, data-driven policies from multisite randomized trials
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Park, C.
+  - Chan Park.
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2023-10-24T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-10-24T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -25,13 +25,13 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *Psychometrika*
+publication_short: In *Psychometrika*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Optimal treatment regimes (OTRs) have been widely employed in computer science and personalized medicine to provide data-driven, optimal recommendations to individuals. However, previous research on OTRs has primarily focused on settings that are independent and identically distributed, with little attention given to the unique characteristics of educational settings, where students are nested within schools and there are hierarchical dependencies. The goal of this study is to propose a framework for designing OTRs from multisite randomized trials, a commonly used experimental design in education and psychology to evaluate educational programs. We investigate modifications to popular OTR methods, specifically Q-learning and weighting methods, in order to improve their performance in multisite randomized trials. A total of 12 modifications, 6 for Q-learning and 6 for weighting, are proposed by utilizing different multilevel models, moderators, and augmentations. Simulation studies reveal that all Q-learning modifications improve performance in multisite randomized trials and the modifications that incorporate random treatment effects show the most promise in handling cluster-level moderators. Among weighting methods, the modification that incorporates cluster dummies into moderator variables and augmentation terms performs best across simulation conditions. The proposed modifications are demonstrated through an application to estimate an OTR of conditional cash transfer programs using a multisite randomized trial in Colombia to maximize educational attainment.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
@@ -55,10 +55,10 @@ url_preprint: 'https://osf.io/preprints/psyarxiv/me5gb'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
-  preview_only: false
+#image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+#  focal_point: ''
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -76,12 +76,3 @@ projects:
 slides: example
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
