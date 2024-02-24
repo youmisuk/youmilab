@@ -6,7 +6,7 @@ title: 'Designing optimal, data-driven policies from multisite randomized trials
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Chan Park.
+  - Chan Park
 
 # Author notes (optional)
 author_notes:
