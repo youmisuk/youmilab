@@ -1,7 +1,7 @@
 ---
 title: "Smoking status, nicotine medication, vaccination, and COVID-19 hospital outcomes: Findings from the COVID EHR Cohort at the University of Wisconsin (CEC-UW) study"
 authors:
-- Thomas M Piasecki et al.
+- Thomas M Piasecki et al
 
 author_notes:
 - "Equal contribution"
@@ -19,7 +19,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Nicotine & Tobacco Research, 25*(6)"
-publication_short: "Nicotine & Tobacco Research"
+publication_short: ""
 
 abstract: Available evidence is mixed concerning associations between smoking status and COVID-19 clinical outcomes. Effects of nicotine replacement therapy (NRT) and vaccination status on COVID-19 outcomes in smokers are unknown.
 
