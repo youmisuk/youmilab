@@ -23,7 +23,7 @@ sections:
              *Fall 2020 - Instructor, ED PSY 763 Regression Models in Education, Dept of Educational Psychology, University of Wisconsin-Madison.*
              *Spring 2020 - Instructor, ED PSY 763 Regression Models in Education, Dept of Educational Psychology, University of Wisconsin-Madison.*
              *Fall 2019 - Instructor, ED PSY 763 Regression Models in Education, Dept of Educational Psychology, University of Wisconsin-Madison.*
-             ED PSY 763 provides an introduction to basic regression techniques and serves as a solid foundation for more advanced methods like hierarchical linear modeling (HLM) or structural equation modeling (SEM). The general objective is to make you familiar with the theoretical foundations of regression analysis as well as its application to real datasets. All the analyses will be done in R which is a free language and environment for statistical computing and graphics .
+             ED PSY 763 provides an introduction to basic regression techniques and serves as a solid foundation for more advanced methods like hierarchical linear modeling (HLM) or structural equation modeling (SEM). The general objective is to make you familiar with the theoretical foundations of regression analysis as well as its application to real datasets. All the analyses will be done in R which is a free language and environment for statistical computing and graphics.
 
 
       
