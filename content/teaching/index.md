@@ -16,16 +16,17 @@ sections:
       text: |-
              *Spring 2022 - Instructor, HUDM 5199 Programming for Data Science, Dept of Human Development, Teachers College, Columbia University.*
       text: |-
-            *Fall 2022 - Instructor, HUDM 5122 Applied Regression Analysis, Dept of Human Development, Teachers College, Columbia University.*
+             *Fall 2022 - Instructor, HUDM 5122 Applied Regression Analysis, Dept of Human Development, Teachers College, Columbia University.*
       text: |-
-            *Spring 2022 - Instructor, DS 6999 Independent Study, School of Data Science, University of Virginia.*
+             *Spring 2022 - Instructor, DS 6999 Independent Study, School of Data Science, University of Virginia.*
              DS 6999 is for a graduate-level independent study conducted under the supervision of a specific instructor.
       text: |-
             *Spring 2022 - Instructor, DS 2001 Programming for Data Science, School of Data Science, University of Virginia.*
              DS 2001 provides an introduction to essential programming concepts, structures, and techniques for data science. Programming languages Python, R, and SQL will be covered with popular data frame focused packages being targeted. Additionally, essential and complementary topics are taught, such as testing and debugging, exception handling, and an introduction to visualization.
       text: |-
              *Spring 2022 - Instructor, DS 3003 Communicating with Data, School of Data Science, University of Virginia.*
-      text: |- *Fall 2021 - Instructor, DS 3003 Communicating with Data, School of Data Science, University of Virginia.*
+      text: |- 
+             *Fall 2021 - Instructor, DS 3003 Communicating with Data, School of Data Science, University of Virginia.*
              DS 3003 is designed to not only teach students tools necessary to visualize data but also effective techniques for explaining data driven results with an emphasis on communicating statistical output in a manner that best represents the findings. Examples might include tailoring messages based on the audience or shaping visualizations to follow a story-line. Content on the development of interactive plots and dashboards using ggplot, plotly, and Shiny will also be included.
       text: |-
              *Fall 2020 - Instructor, ED PSY 763 Regression Models in Education, Dept of Educational Psychology, University of Wisconsin-Madison.*
