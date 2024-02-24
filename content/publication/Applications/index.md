@@ -1,16 +1,16 @@
 ---
-title: "An example journal article"
+title: "Smoking status, nicotine medication, vaccination, and COVID-19 hospital outcomes: Findings from the COVID EHR Cohort at the University of Wisconsin (CEC-UW) study"
 authors:
-- admin
-- Robert Ford
+- Thomas M Piasecki et al.
+
 author_notes:
 - "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+
+date: "2022-09-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-09-07T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,13 +18,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "*Nicotine & Tobacco Research, 25*(6)"
+publication_short: "Nicotine & Tobacco Research"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Available evidence is mixed concerning associations between smoking status and COVID-19 clinical outcomes. Effects of nicotine replacement therapy (NRT) and vaccination status on COVID-19 outcomes in smokers are unknown.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Former but not current smokers hospitalized with COVID-19 are at higher risk for severe outcomes. SARS-CoV-2 vaccination is associated with better hospital outcomes in COVID-19 patients, especially current and former smokers. NRT during COVID-19 hospitalization may reduce mortality for current smokers.
 
 tags:
 - Source Themes
@@ -33,8 +33,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: 'https://academic.oup.com/ntr/article/25/6/1184/6693781?login=false'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -64,12 +64,3 @@ projects: []
 slides: example
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
