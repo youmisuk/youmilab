@@ -1,23 +1,23 @@
 ---
-title: ' A within-group approach to ensemble machine learning methods for causal inference in multilevel studies'
+title: ' A psychometric framework for evaluating fairness in algorithmic decision making: differential algorithmic functioning'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  
+  - Kyung T Han
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2023-04-25T00:00:00Z'
+date: '2023-05-10T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-04-25T00:00:00Z'
+publishDate: '2023-05-10T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -28,7 +28,7 @@ publication_types: ['paper-conference']
 publication: In *Journal of Educational and Behavioral Statistics*
 publication_short: In *Journal of Educational and Behavioral Statistics*
 
-abstract: Machine learning (ML) methods for causal inference have gained popularity due to their flexibility to predict the outcome model and the propensity score. In this article, we provide a within-group approach for ML-based causal inference methods in order to robustly estimate average treatment effects in multilevel studies when there is cluster-level unmeasured confounding. We focus on one particular ML-based causal inference method based on the targeted maximum likelihood estimation (TMLE) with an ensemble learner called SuperLearner. Through our simulation studies, we observe that training TMLE within groups of similar clusters helps remove bias from cluster-level unmeasured confounders. Also, using within-group propensity scores estimated from fixed effects logistic regression increases the robustness of the proposed within-group TMLE method. Even if the propensity scores are partially misspecified, the within-group TMLE still produces robust ATE estimates due to double robustness with flexible modeling, unlike parametric-based inverse propensity weighting methods. We demonstrate our proposed methods and conduct sensitivity analyses against the number of groups and individual-level unmeasured confounding to evaluate the effect of taking an eighth-grade algebra course on math achievement in the Early Childhood Longitudinal Study.
+abstract: As algorithmic decision making is increasingly deployed in every walk of life, many researchers have raised concerns about fairness-related bias from such algorithms. But there is little research on harnessing psychometric methods to uncover potential discriminatory bias inside decision-making algorithms. The main goal of this article is to propose a new framework for algorithmic fairness based on differential item functioning (DIF), which has been commonly used to measure item fairness in psychometrics. Our fairness notion, which we call differential algorithmic functioning (DAF), is defined based on three pieces of information- a decision variable, a “fair” variable, and a protected variable such as race or gender. Under the DAF framework, an algorithm can exhibit uniform DAF, nonuniform DAF, or neither (i.e., non-DAF). For detecting DAF, we provide modifications of well-established DIF methods- Mantel–Haenszel test, logistic regression, and residual-based DIF. We demonstrate our framework through a real dataset concerning decision-making algorithms for grade retention in K–12 education in the United States. 
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -43,15 +43,15 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://journals.sagepub.com/doi/10.3102/10769986231162096'
-url_code: 'https://osf.io/preprints/psyarxiv/8s7ut'
+url_pdf: 'https://journals.sagepub.com/doi/10.3102/10769986231171711'
+url_code: 'https://github.com/youmisuk/DAF'
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-url_preprint: 'https://github.com/youmisuk/groupedTMLE'
+url_preprint: 'https://osf.io/preprints/psyarxiv/4cpdn'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

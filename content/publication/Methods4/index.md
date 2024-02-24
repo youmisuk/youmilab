@@ -1,23 +1,25 @@
 ---
-title: ' A within-group approach to ensemble machine learning methods for causal inference in multilevel studies'
+title: ' Estimating heterogenous treatment effects within latent class multilevel models: A Bayesian approach'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Weicong Lyu
+  - Jee-Seon Kim
   - admin
-  
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
+  - 'Equal contribution'
 
-date: '2023-04-25T00:00:00Z'
+date: '2022-08-17T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-04-25T00:00:00Z'
+publishDate: '2022-08-17T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -28,7 +30,7 @@ publication_types: ['paper-conference']
 publication: In *Journal of Educational and Behavioral Statistics*
 publication_short: In *Journal of Educational and Behavioral Statistics*
 
-abstract: Machine learning (ML) methods for causal inference have gained popularity due to their flexibility to predict the outcome model and the propensity score. In this article, we provide a within-group approach for ML-based causal inference methods in order to robustly estimate average treatment effects in multilevel studies when there is cluster-level unmeasured confounding. We focus on one particular ML-based causal inference method based on the targeted maximum likelihood estimation (TMLE) with an ensemble learner called SuperLearner. Through our simulation studies, we observe that training TMLE within groups of similar clusters helps remove bias from cluster-level unmeasured confounders. Also, using within-group propensity scores estimated from fixed effects logistic regression increases the robustness of the proposed within-group TMLE method. Even if the propensity scores are partially misspecified, the within-group TMLE still produces robust ATE estimates due to double robustness with flexible modeling, unlike parametric-based inverse propensity weighting methods. We demonstrate our proposed methods and conduct sensitivity analyses against the number of groups and individual-level unmeasured confounding to evaluate the effect of taking an eighth-grade algebra course on math achievement in the Early Childhood Longitudinal Study.
+abstract: This article presents a latent class model for multilevel data to identify latent subgroups and estimate heterogeneous treatment effects. Unlike sequential approaches that partition data first and then estimate average treatment effects (ATEs) within classes, we employ a Bayesian procedure to jointly estimate mixing probability, selection, and outcome models so that misclassification does not obstruct estimation of treatment effects. Simulation demonstrates that the proposed method finds the correct number of latent classes, estimates class-specific treatment effects well, and provides proper posterior standard deviations and credible intervals of ATEs. We apply this method to Trends in International Mathematics and Science Study data to investigate the effects of private science lessons on achievement scores and then find two latent classes, one with zero ATE and the other with positive ATE.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -43,15 +45,15 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://journals.sagepub.com/doi/10.3102/10769986231162096'
-url_code: 'https://osf.io/preprints/psyarxiv/8s7ut'
+url_pdf: 'https://journals.sagepub.com/doi/10.3102/10769986221115446'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-url_preprint: 'https://github.com/youmisuk/groupedTMLE'
+url_preprint: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
