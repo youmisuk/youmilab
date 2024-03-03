@@ -63,5 +63,13 @@ sections:
       text: |
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
-      columns: '1'
+      # <a href="https://www.freepik.com/free-ai-image/glowing-blue-wave-pattern-ignites-futuristic-technology-generated-by-ai_41327962.htm#fromView=search&page=1&position=50&uuid=8359d31e-6bdd-4d74-8266-7c363ea63294">Image by vecstock on Freepik</a>  #for image AI1, power by author
+
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: ''
+      is_fullscreen: true
+      # Automatically transition through slides?
+      loop: false
+      # Duration of transition between slides (in ms)
+      interval: 2000
 ---
