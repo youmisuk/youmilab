@@ -11,9 +11,9 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - ''
+  - ''
+  - ''
 
 date: '2020-09-10T00:00:00Z'
 doi: ''
