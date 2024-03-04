@@ -70,7 +70,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - PhD Students
 ---
 
 Guoliang Xu is a PhD student of Measurement, Evaluation, and Statistics at Columbia University. His research interests include machine learning, bayesian inference, and time-series data analysis. 
