@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: slider
+  - block: hero
     content:
       slides:
       - title: 👋 Welcome to the group
