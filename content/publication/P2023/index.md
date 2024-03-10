@@ -1,5 +1,5 @@
 ---
-title: ''
+title: '**2023**'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -8,11 +8,11 @@ authors:
   -
 
 
-#date: '2023-12-31T00:00:00Z'
-#doi: ''
+date: '2023-12-31T00:00:00Z'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-12-31T00:00:00Z'
+#publishDate: '2023-12-31T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
