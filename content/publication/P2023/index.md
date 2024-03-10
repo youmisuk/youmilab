@@ -7,11 +7,6 @@ title: ''
 authors:
   - 2023
 
-# Author notes (optional)
-author_notes:
-  - ''
-  - ''
-  - ''
 
 date: '2023-12-31T00:00:00Z'
 doi: ''
@@ -29,7 +24,7 @@ publication_types: ['methods']
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: False
 
 # Custom links (uncomment lines below)
 # links:
