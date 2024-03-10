@@ -4,7 +4,7 @@ authors:
 - Thomas M Piasecki et al
 
 author_notes:
-- "Equal contribution"
+- ""
 
 date: "2022-09-07T00:00:00Z"
 doi: ""
