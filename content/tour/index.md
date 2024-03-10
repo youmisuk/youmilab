@@ -16,9 +16,7 @@ sections:
         <br>
         
         The **Youmi Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-
-  
-    
+        
   - block: slider
     content:
       slides:
