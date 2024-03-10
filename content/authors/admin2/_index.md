@@ -48,7 +48,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'gx2150@tc.columbia.edu'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
@@ -73,6 +73,6 @@ user_groups:
   - PhD Students
 ---
 
-Guoliang Xu is a PhD student of Measurement, Evaluation, and Statistics at Columbia University. His research interests include machine learning, bayesian inference, and time-series data analysis. 
+Guoliang Xu is a PhD student of Measurement, Evaluation, and Statistics at Columbia University. His research interests include machine learning, deep learning, bayesian inference, and time-series data analysis. 
 
 
