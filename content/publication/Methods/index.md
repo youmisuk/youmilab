@@ -53,8 +53,6 @@ url_source: ''
 url_video: ''
 url_preprint: 'https://osf.io/preprints/psyarxiv/me5gb'
 
-user_groups:
-  - 2023
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 #image:
