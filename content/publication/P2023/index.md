@@ -5,14 +5,14 @@ title: ''
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - 2023
+  - **2023**
 
 
 date: '2023-12-31T00:00:00Z'
-doi: ''
+#doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-12-31T00:00:00Z'
+#publishDate: '2023-12-31T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -43,14 +43,14 @@ featured: False
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - []
+#projects:
+#  - []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: ""
+#slides: ""
 ---
 
