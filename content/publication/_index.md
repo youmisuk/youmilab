@@ -2,17 +2,12 @@
 title: publications
 
 # Listing view
-view: citation
-#list
-#compact
-#citation
+view: compact
+
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
   caption: ''
   image: ''
-
-
-
 
 ---
