@@ -1,5 +1,5 @@
 ---
-title: '**2023**'
+title: '2023'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -9,7 +9,7 @@ authors:
 
 
 date: '2023-12-31T00:00:00Z'
-doi: ''
+#doi: ''
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: '2023-12-31T00:00:00Z'

@@ -2,7 +2,8 @@
 title: publications
 
 # Listing view
-view: list
+view: citation
+#list
 #compact
 #citation
 
