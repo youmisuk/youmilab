@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
+        Youmi
         Research Group
       image:
         filename: welcome.jpg
