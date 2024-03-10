@@ -1,5 +1,5 @@
 ---
-title: home
+title: 
 date: 2022-10-24
 
 type: landing
@@ -7,6 +7,9 @@ type: landing
 sections:
   - block: hero
     content:
+      title: |
+        Youmi
+        Research Group
       image:
         filename: welcome.jpg
       text: |
