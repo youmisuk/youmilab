@@ -7,9 +7,6 @@ type: landing
 sections:
   - block: hero
     content:
-      title: |
-        Youmi
-        Research Group
       image:
         filename: welcome.jpg
       text: |
