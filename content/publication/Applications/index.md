@@ -1,8 +1,7 @@
 ---
 title: "Smoking status, nicotine medication, vaccination, and COVID-19 hospital outcomes: Findings from the COVID EHR Cohort at the University of Wisconsin (CEC-UW) study"
 
-user_groups:
-- 2022
+
 
 authors:
 - Thomas M Piasecki et al
