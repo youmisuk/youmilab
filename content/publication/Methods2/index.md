@@ -33,7 +33,7 @@ abstract: Machine learning (ML) methods for causal inference have gained popular
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [2023]
+tags: []
 
 # Display this page in the Featured widget?
 featured: true
@@ -53,6 +53,8 @@ url_source: ''
 url_video: ''
 url_preprint: 'https://github.com/youmisuk/groupedTMLE'
 
+user_groups:
+  - 2023
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 #image:
