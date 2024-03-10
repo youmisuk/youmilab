@@ -33,7 +33,7 @@ abstract: Optimal treatment regimes (OTRs) have been widely employed in computer
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+tags: [2023]
 
 # Display this page in the Featured widget?
 featured: true
