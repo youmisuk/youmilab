@@ -14,7 +14,7 @@ date: 2023-05-01
 <!--more-->
 
 <div id="interactive-image">
-    <iframe src="sankeyfinal.html" width="800" height="800"></iframe>
+    <iframe src="sankeyfinal.html" width="700" height="800"></iframe>
 </div>
 
 
