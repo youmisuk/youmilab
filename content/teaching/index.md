@@ -9,27 +9,27 @@ sections:
     content:
       title: Course Information
       text: |-
-             *◇ Fall 2023 - Instructor, HUDM 5199 Programming for Data Science, Dept of Human Development, Teachers College, Columbia University.*
+             ◇**Fall 2023 - Instructor, HUDM 5199 Programming for Data Science, Dept of Human Development, Teachers College, Columbia University.**
       
-             *◇ Fall 2023 - Instructor, HUDM 5122 Applied Regression Analysis, Dept of Human Development, Teachers College, Columbia University.*
+             ◇** Fall 2023 - Instructor, HUDM 5122 Applied Regression Analysis, Dept of Human Development, Teachers College, Columbia University.**
       
-             *◇ Spring 2022 - Instructor, HUDM 5199 Programming for Data Science, Dept of Human Development, Teachers College, Columbia University.*
+             ◇**Spring 2022 - Instructor, HUDM 5199 Programming for Data Science, Dept of Human Development, Teachers College, Columbia University.**
      
-             *◇ Fall 2022 - Instructor, HUDM 5122 Applied Regression Analysis, Dept of Human Development, Teachers College, Columbia University.*
+             ◇** Fall 2022 - Instructor, HUDM 5122 Applied Regression Analysis, Dept of Human Development, Teachers College, Columbia University.**
       
-             *◇ Spring 2022 - Instructor, DS 6999 Independent Study, School of Data Science, University of Virginia.*
+             ◇** Spring 2022 - Instructor, DS 6999 Independent Study, School of Data Science, University of Virginia.**
              
-             *◇ Spring 2022 - Instructor, DS 2001 Programming for Data Science, School of Data Science, University of Virginia.*
+             ◇** Spring 2022 - Instructor, DS 2001 Programming for Data Science, School of Data Science, University of Virginia.**
              
-             *◇ Spring 2022 - Instructor, DS 3003 Communicating with Data, School of Data Science, University of Virginia.*
+             ◇** Spring 2022 - Instructor, DS 3003 Communicating with Data, School of Data Science, University of Virginia.**
       
-             *◇ Fall 2021 - Instructor, DS 3003 Communicating with Data, School of Data Science, University of Virginia.*
+             ◇** Fall 2021 - Instructor, DS 3003 Communicating with Data, School of Data Science, University of Virginia.**
       
-             *◇ Fall 2020 - Instructor, ED PSY 763 Regression Models in Education, Dept of Educational Psychology, University of Wisconsin-Madison.*
+             ◇** Fall 2020 - Instructor, ED PSY 763 Regression Models in Education, Dept of Educational Psychology, University of Wisconsin-Madison.**
       
-             *◇ Spring 2020 - Instructor, ED PSY 763 Regression Models in Education, Dept of Educational Psychology, University of Wisconsin-Madison.*
+             ◇** Spring 2020 - Instructor, ED PSY 763 Regression Models in Education, Dept of Educational Psychology, University of Wisconsin-Madison.**
       
-             *◇ Fall 2019 - Instructor, ED PSY 763 Regression Models in Education, Dept of Educational Psychology, University of Wisconsin-Madison.*
+             ◇** Fall 2019 - Instructor, ED PSY 763 Regression Models in Education, Dept of Educational Psychology, University of Wisconsin-Madison.**
              
              _DS 6999 is for a graduate-level independent study conducted under the supervision of a specific instructor._
 
