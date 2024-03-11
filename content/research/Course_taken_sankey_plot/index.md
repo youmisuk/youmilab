@@ -1,19 +1,22 @@
 ---
 title: Sankey plot for students from grade 8 to 12
-date: 2020-12-01
+author: Guoliang Xu
+date: 2023-05-01
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+
 
 <!--more-->
 
 <div id="interactive-image">
-    <iframe src="sankeyfinal.html" width="600" height="400"></iframe>
+    <iframe src="sankeyfinal.html" width="1000" height="800"></iframe>
 </div>
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+This Sankey diagram visually represents the course selection pathways for students from 8th to 12th grade in mathematics. Starting from the left, different math courses such as "Algebra I," "Geometry," and categories like "NA" (Not Available or Not Applicable) and "No Math" indicate the initial status of the students. These categories represent the starting points for the students' journey through math education over these grades.
 
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
+The flows (represented by the grey bands) in the diagram depict the transitions of students from one math course or status to another. The width of these flows signifies the number of students making each transition; broader flows indicate a larger number of students moving along that path.
 
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
+As you move from left to right across the diagram, you can see the subsequent math courses students enroll in, culminating in advanced courses like "Precalculus" and "AP/IB Calculus," as well as students who continue to remain in the "NA" or "No Math" categories.
+
+The Sankey diagram clearly demonstrates the pathways of student progression from foundational to advanced math courses, including the major transition patterns between different math courses. For example, it highlights the diversity of paths taken by students after completing "Algebra I," with some moving directly to "Algebra II," while others shift to "Geometry" or other branches of math.
