@@ -3,6 +3,9 @@ title: Sankey plot for students from grade 8 to 12
 authors: 
 - Youmi Suk
 - Guoliang Xu
+#image:
+#  focal_point: 'top'
+
 date: 2023-05-01
 ---
 
@@ -11,7 +14,7 @@ date: 2023-05-01
 <!--more-->
 
 <div id="interactive-image">
-    <iframe src="sankeyfinal.html" width="600" height="800"></iframe>
+    <iframe src="sankeyfinal.html" width="800" height="800"></iframe>
 </div>
 
 
