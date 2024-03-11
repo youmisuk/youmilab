@@ -1,6 +1,7 @@
 ---
 title: publications
 
+
 # Listing view
 view: compact
 
