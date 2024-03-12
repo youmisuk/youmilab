@@ -8,7 +8,6 @@ sections:
   - block: Contact
     content:
       title: Course Information
-      <div style="text-align: justify;">
       text: |-
              ◇**Fall 2023 - Instructor, HUDM 5199 Programming for Data Science, Dept of Human Development, Teachers College, Columbia University.**
       
@@ -40,7 +39,7 @@ sections:
              
              _ED PSY 763 provides an introduction to basic regression techniques and serves as a solid foundation for more advanced methods like hierarchical linear modeling (HLM) or structural equation modeling (SEM). The general objective is to make you familiar with the theoretical foundations of regression analysis as well as its application to real datasets. All the analyses will be done in R which is a free language and environment for statistical computing and graphics._
              
-      </div>
+     
 
 
       
