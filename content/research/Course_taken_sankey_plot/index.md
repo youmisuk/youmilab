@@ -3,19 +3,28 @@ title: Sankey plot for students from grade 8 to 12
 authors: 
 - admin
 - Guoliang Xu
+- Chenguang Pan
 #image:
 #  focal_point: 'top'
 
 date: 2023-05-01
+
+<style>
+/* 设置页面内容的最大宽度为1200像素 */
+.content {
+    max-width: 1200px;
+    margin: 0 auto; /* 居中显示 */
+    padding: 20px;
+}
+</style>
+
+
 ---
 
 
 
 <!--more-->
 
-<div id="interactive-image">
-    <iframe src="sankeyfinal.html" width="700" height="800"></iframe>
-</div>
 
 
 This Sankey diagram visually represents the course selection pathways for students from 8th to 12th grade in mathematics. Starting from the left, different math courses such as "Algebra I," "Geometry," and categories like "NA" (Not Available or Not Applicable) and "No Math" indicate the initial status of the students. These categories represent the starting points for the students' journey through math education over these grades.

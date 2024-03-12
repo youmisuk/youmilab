@@ -14,7 +14,7 @@ sections:
 
 
       email: ysuk@tc.columbia.edu
-      phone: 212-678-
+      phone: 212-678-4030
       address:
         street: 525west 120st
         city: New York
@@ -26,9 +26,7 @@ sections:
         latitude: '40.810053'
         longitude: '-73.959424'
       directions: Enter Grace Dorge Hall Building and take the stairs to Office 552 GDodge on Floor 5
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+      
       
       #contact_links:
       #  - icon: comments
