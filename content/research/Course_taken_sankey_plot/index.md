@@ -1,19 +1,28 @@
 ---
-title: Sankey plot for students from grade 8 to 12
-authors: 
-- admin
-- Guoliang Xu
-- Chenguang Pan
+- block: markdown
+    content:
+      title: Sankey plot for students from grade 8 to 12
+      subtitle: ''
+      text:
+      authors: 
+      - admin
+      - Guoliang Xu
+      - Chenguang Pan
+      date: 2023-05-01
+    design:
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
+  
+
+
+
 #image:
 #  focal_point: 'top'
 
-date: 2023-05-01
 
 
-design:
-  spacing:
-    # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ['20px', '0', '20px', '0']
+
 ---
 
 
