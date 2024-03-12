@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Machine learning, Deep learning, High-dimensional Statistics, and Bayesian Data Analysis.
+bio: My research interests include Machine learning, Deep learning, Bayesian Data Analysis, and High-dimensional Statistics.
 
 interests:
   - Machine Learning
@@ -48,10 +48,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:gx2150@tc.columbia.edu'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 'mailto: gx2150@tc.columbia.edu'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
