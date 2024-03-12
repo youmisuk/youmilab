@@ -2,7 +2,7 @@
 title: Sankey plot for students from grade 8 to 12
 authors: 
 - admin
-- admin1
+- Guoliang Xu
 #image:
 #  focal_point: 'top'
 
