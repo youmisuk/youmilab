@@ -9,14 +9,6 @@ authors:
 
 date: 2023-05-01
 
-<style>
-/* 设置页面内容的最大宽度为1200像素 */
-.content {
-    max-width: 1200px;
-    margin: 0 auto; /* 居中显示 */
-    padding: 20px;
-}
-</style>
 
 
 ---

@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Machine learning, High-dimensional Statistics, and Bayesian Data Analysis.
+bio: My research interests include Machine learning, Deep learning, High-dimensional Statistics, and Bayesian Data Analysis.
 
 interests:
   - Machine Learning
