@@ -46,7 +46,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'rl3282@tc.columbia.edu'
+    link: 'mailto:rl3282@tc.columbia.edu'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
