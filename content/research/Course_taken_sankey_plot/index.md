@@ -10,7 +10,10 @@ authors:
 date: 2023-05-01
 
 
-
+design:
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ['20px', '0', '20px', '0']
 ---
 
 
@@ -26,3 +29,5 @@ The flows (represented by the grey bands) in the diagram depict the transitions 
 As you move from left to right across the diagram, you can see the subsequent math courses students enroll in, culminating in advanced courses like "Precalculus" and "AP/IB Calculus," as well as students who continue to remain in the "NA" or "No Math" categories.
 
 The Sankey diagram clearly demonstrates the pathways of student progression from foundational to advanced math courses, including the major transition patterns between different math courses. For example, it highlights the diversity of paths taken by students after completing "Algebra I," with some moving directly to "Algebra II," while others shift to "Geometry" or other branches of math.
+
+
