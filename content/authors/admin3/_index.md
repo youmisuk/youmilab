@@ -8,7 +8,7 @@ last_name: Pan
 
 # Username (this should match the folder name)
 authors:
-  - Chenguang Pan
+  - admin3
 
 # Is this the primary user of the site?
 superuser: FALSE
