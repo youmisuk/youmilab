@@ -24,8 +24,7 @@ publication_types: ["application"]
 publication: "*PLOS ONE"
 publication_short: ""
 
-abstract: 
-Main objective
+abstract: Main objective
 There is limited information on how patient outcomes have changed during the COVID-19 pandemic. This study characterizes changes in mortality, intubation, and ICU admission rates during the first 20 months of the pandemic.
 Study design and methods
 University of Wisconsin researchers collected and harmonized electronic health record data from 1.1 million COVID-19 patients across 21 United States health systems from February 2020 through September 2021. The analysis comprised data from 104,590 adult hospitalized COVID-19 patients. Inclusion criteria for the analysis were (1) age 18 years or older; (2) COVID-19 ICD-10 diagnosis during hospitalization and/or a positive COVID-19 PCR test in a 14-day window (+/- 7 days of hospital admission); and (3) health system contact prior to COVID-19 hospitalization. Outcomes assessed were (1) mortality (primary), (2) endotracheal intubation, and (3) ICU admission.
