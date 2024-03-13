@@ -29,18 +29,7 @@ publication_types: ["application"]
 publication: "*Journal of Speech, Language, and Hearing Research, 64*(4)"
 publication_short: ""
 
-abstract: 
-Purpose 
-The aim of this study was to determine how the speech disorder profiles in Down syndrome (DS) relate to reduced intelligibility, atypical overall quality, and impairments in the subsystems of speech production (phonation, articulation, resonance, and prosody).
-
-Method 
-Auditory-perceptual ratings of intelligibility, overall quality, and features associated with the subsystems of speech production were obtained from recordings of 79 children and adults with DS. Ratings were made for sustained vowels (62 of 79 speakers) and short sentences (79 speakers). The data were analyzed to determine the severity of the affected features in each speaking task and to detect patterns in the group data by means of principal components analysis.
-
-Results 
-Reduced intelligibility was noted in 90% of the speakers, and atypical overall speech quality was noted in 100%. Affected speech features were distributed across the speech production subsystems. Principal components analysis revealed four components each for the vowel and sentence tasks, showing that individuals with DS are not homogeneous in the features of their speech disorder.
-
-Discussion 
-The speech disorder in DS is complex in its perceptual features and reflects impairments across the subsystems of speech production, but the pattern is not uniform across individuals, indicating that attention must be given to individual variation in designing treatments.
+abstract: Purpose-The aim of this study was to determine how the speech disorder profiles in Down syndrome (DS) relate to reduced intelligibility, atypical overall quality, and impairments in the subsystems of speech production (phonation, articulation, resonance, and prosody). Method-Auditory-perceptual ratings of intelligibility, overall quality, and features associated with the subsystems of speech production were obtained from recordings of 79 children and adults with DS. Ratings were made for sustained vowels (62 of 79 speakers) and short sentences (79 speakers). The data were analyzed to determine the severity of the affected features in each speaking task and to detect patterns in the group data by means of principal components analysis. Results-Reduced intelligibility was noted in 90% of the speakers, and atypical overall speech quality was noted in 100%. Affected speech features were distributed across the speech production subsystems. Principal components analysis revealed four components each for the vowel and sentence tasks, showing that individuals with DS are not homogeneous in the features of their speech disorder. Discussion-The speech disorder in DS is complex in its perceptual features and reflects impairments across the subsystems of speech production, but the pattern is not uniform across individuals, indicating that attention must be given to individual variation in designing treatments.
 
 
 tags:
