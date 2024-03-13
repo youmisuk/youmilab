@@ -19,7 +19,7 @@ date: '2023-12-31T00:00:00Z'
 # Enter a publication type from the CSL standard.
 publication_types: ['Methods']
 publication_types: ['Application']
-
+publication_types: ['Working']
 
 
 tags: []
