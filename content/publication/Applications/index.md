@@ -4,7 +4,7 @@ title: "Smoking status, nicotine medication, vaccination, and COVID-19 hospital 
 
 
 authors:
-- Thomas M Piasecki et al
+- Piasecki, T. M. et al.
 
 author_notes:
 - ""

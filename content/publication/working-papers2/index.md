@@ -1,13 +1,13 @@
 ---
-title: "Evaluating Intersectional Fairness in Algorithmic Decision Making Using Intersectional Differential Algorithmic Functioning"
+title: "Regression Discontinuity Designs in Education: A Practitioner's Guide"
 authors:
 - admin
-- Kyung (Chris) T. Han
-date: "2024-02-14T00:00:00Z"
+
+date: "2024-03-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-02-14T00:00:00Z"
+publishDate: "2024-03-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,7 +18,10 @@ publication_types: ["Working"]
 publication: ""
 publication_short: ""
 
-abstract: Ensuring fairness is a crucial aspect of modern algorithm development as well as test develop-ment.  Efforts to address potential biases and discrimination in algorithmic decision-making haveled to studies drawing insights from the test fairness literature, notably Suk and Han (2023)’sdifferential algorithmic functioning(DAF). Nevertheless, the exploration of intersectionality infairness investigations, within both test fairness and algorithmic fields, is still relatively new.  Inthis paper, we propose an extension of the DAF framework to include the concept of intersec-tionality.  Similar to DAF, the proposed notion for intersectionality, which we term “interactiveDAF,”  leverages  ideas  from  test  fairness  and  algorithmic  fairness.   We  also  provide  methodsbased on the generalized Mantel-Haenszel test, generalized logistic regression, and regularizedgroup regression to detect DAF, interactive DAF, or other subtypes of DAF. Specifically, we em-ploy regularized group regression with three different penalties and examine their performancevia a simulation study.  Finally, we demonstrate our intersectional DAF framework in real-worldapplications on grade retention and conditional cash transfer programs in education. 
+abstract: 
+Regression discontinuity (RD) designs have gained significant popularity as a quasi-experimental device for evaluating education programs and policies. In this paper, we present a comprehensive review of RD designs, focusing on the continuity-based framework, the most widely adopted RD framework. We first review the fundamental aspects of RD designs, drawing on potential outcomes and causal graphs. We then discuss the validity threats in RD designs, including manipulation, discreteness of the running
+variable, statistical power, and generalizability. Additionally, we provide an overview of the existing extensions to RD designs. To exemplify the application of RD methods, we analyze the effect of New Jersey’s pre-kindergarten program on children’s vocabulary test
+scores, using an educational dataset. Finally, we offer practical guidelines in the conclusion to promote the appropriate use of RD methods in educational research,
 
 # Summary. An optional shortened abstract.
 #summary:
@@ -38,7 +41,7 @@ url_project: ''
 url_slides: ''
 url_source: '#'
 url_video: '#'
-url_preprint: 'https://osf.io/preprints/psyarxiv/e93js'
+url_preprint: 'https://osf.io/preprints/psyarxiv/rhxs7'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

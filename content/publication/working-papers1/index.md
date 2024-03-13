@@ -1,13 +1,13 @@
 ---
-title: "Evaluating Intersectional Fairness in Algorithmic Decision Making Using Intersectional Differential Algorithmic Functioning"
+title: "Fuzzy regression discontinuity designs with multiple control groups under one-sided noncompliance: Evaluating extended time accommodations"
 authors:
 - admin
-- Kyung (Chris) T. Han
-date: "2024-02-14T00:00:00Z"
+- Yongnam Kim
+date: "2024-02-21T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-02-14T00:00:00Z"
+publishDate: "2024-02-21T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,7 +18,7 @@ publication_types: ["Working"]
 publication: ""
 publication_short: ""
 
-abstract: Ensuring fairness is a crucial aspect of modern algorithm development as well as test develop-ment.  Efforts to address potential biases and discrimination in algorithmic decision-making haveled to studies drawing insights from the test fairness literature, notably Suk and Han (2023)’sdifferential algorithmic functioning(DAF). Nevertheless, the exploration of intersectionality infairness investigations, within both test fairness and algorithmic fields, is still relatively new.  Inthis paper, we propose an extension of the DAF framework to include the concept of intersec-tionality.  Similar to DAF, the proposed notion for intersectionality, which we term “interactiveDAF,”  leverages  ideas  from  test  fairness  and  algorithmic  fairness.   We  also  provide  methodsbased on the generalized Mantel-Haenszel test, generalized logistic regression, and regularizedgroup regression to detect DAF, interactive DAF, or other subtypes of DAF. Specifically, we em-ploy regularized group regression with three different penalties and examine their performancevia a simulation study.  Finally, we demonstrate our intersectional DAF framework in real-worldapplications on grade retention and conditional cash transfer programs in education. 
+abstract: Since its conception by Thistlethwaite and Campbell (1960),  a regression dis-continuity (RD) design has continuously evolved and progressed in various aspects.This paper explores a novel theoretical advancement in fuzzy RD designs by com-bining them with multiple control groups under one-sided noncompliance.  Withinthis approach, we estimate the average treatment effect on the treated at the cutofffrom the fuzzy RD design and construct its bounds derived from multiple controlgroups.  Using the bounds as a sensitivity check,  we examine whether the under-lying causal or statistical assumptions for the fuzzy RD design are warranted.  Wedemonstrate our approach by studying the effect of extended time accommodationsusing data from the National Assessment of Educational Progress. 
 
 # Summary. An optional shortened abstract.
 #summary:
@@ -31,14 +31,14 @@ links:
 - name: Custom Link
   url: ''
 url_pdf: ''
-url_code: ''
+url_code: 'https://github.com/youmisuk/fuzzyRD_MG'
 url_dataset: '#'
 url_poster: '#'
 url_project: ''
 url_slides: ''
 url_source: '#'
 url_video: '#'
-url_preprint: 'https://osf.io/preprints/psyarxiv/e93js'
+url_preprint: 'https://osf.io/preprints/psyarxiv/sa96g'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
