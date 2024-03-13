@@ -73,7 +73,7 @@ user_groups:
   - PhD Students
 ---
 
-Chenguang is a PhD ...
+Chenguang is a PhD ... His research interests include,
 
 
 
