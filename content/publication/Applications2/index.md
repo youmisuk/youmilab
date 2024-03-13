@@ -27,13 +27,10 @@ publication_short: ""
 abstract: 
 Main objective
 There is limited information on how patient outcomes have changed during the COVID-19 pandemic. This study characterizes changes in mortality, intubation, and ICU admission rates during the first 20 months of the pandemic.
-
 Study design and methods
 University of Wisconsin researchers collected and harmonized electronic health record data from 1.1 million COVID-19 patients across 21 United States health systems from February 2020 through September 2021. The analysis comprised data from 104,590 adult hospitalized COVID-19 patients. Inclusion criteria for the analysis were (1) age 18 years or older; (2) COVID-19 ICD-10 diagnosis during hospitalization and/or a positive COVID-19 PCR test in a 14-day window (+/- 7 days of hospital admission); and (3) health system contact prior to COVID-19 hospitalization. Outcomes assessed were (1) mortality (primary), (2) endotracheal intubation, and (3) ICU admission.
-
 Results and significance
 The 104,590 hospitalized participants had a mean age of 61.7 years and were 50.4% female, 24% Black, and 56.8% White. Overall risk-standardized mortality (adjusted for age, sex, race, ethnicity, body mass index, insurance status and medical comorbidities) declined from 16% of hospitalized COVID-19 patients (95% CI 16% to 17%) early in the pandemic (February-April 2020) to 9% (CI 9% to 10%) later (July-September 2021). Among subpopulations, males (vs. females), those on Medicare (vs. those on commercial insurance), the severely obese (vs. normal weight), and those aged 60 and older (vs. younger individuals) had especially high mortality rates both early and late in the pandemic. ICU admission and intubation rates also declined across these 20 months.
-
 Conclusions
 Mortality, intubation, and ICU admission rates improved markedly over the first 20 months of the pandemic among adult hospitalized COVID-19 patients although gains varied by subpopulation. These data provide important information on the course of COVID-19 and identify hospitalized patient groups at heightened risk for negative outcomes.
 
